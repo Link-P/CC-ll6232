@@ -56,9 +56,9 @@ function draw() {
   rotate(linerotate);
   stroke(122, 65, 37);
   strokeWeight(2);
-  line(0, 0, 400-300, 400-yPos);
+  line(0, 0, 500-300, 150-yPos);
   
-  translate(400-300, 400-yPos);
+  translate(500-300, 150-yPos);
   scale(bigCircleScale);
   noStroke();
   fill(240, 179, 38);
@@ -74,10 +74,10 @@ function draw() {
 
 function mousePressed(){
 
-  xPos = xPos + 300
-  rectScale = rectScale + 0.7
-  linerotate = linerotate + radians(60)
-  bigCircleScale = bigCircleScale + 0.3
+  xPos = xPos + 150;
+  rectScale = rectScale + 0.4;
+  linerotate = linerotate + radians(60);
+  bigCircleScale = bigCircleScale + 0.3;
   backgroundR = min(backgroundR + 25, 255);
   backgroundG = min(backgroundG + 25, 255);
   backgroundB = min(backgroundB + 25, 255);
