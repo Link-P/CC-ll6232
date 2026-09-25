@@ -1,11 +1,10 @@
 let doExport = false;
-let seed = 1234;
+let seed = 8199;
 let inc = 0.01;
 let rectSize = 8;
 
 function setup() {
   createCanvas(576, 384);
-  //划定色彩模式值的范围，尤其是最后一个透明值
   rectMode(CENTER);
   
 }
@@ -47,10 +46,9 @@ function draw() {
 }
 
 function keyPressed(){
-  if(key == "r"){
+   if(key == "r"){
     seed = floor(random(11111));
   }
-
    if(key == "s"){
       doExport = true;
   }
