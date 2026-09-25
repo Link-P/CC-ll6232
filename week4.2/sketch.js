@@ -1,5 +1,6 @@
 let doExport = false;
-let seed = 8199;
+let seed = 9190;
+//设置增量参数
 let inc = 0.01;
 let rectSize = 8;
 
@@ -10,6 +11,7 @@ function setup() {
 }
 
 function draw() {
+  //判定打印
   if(doExport){
     beginRecordSvg("spiral" + seed + ".svg");
   }
@@ -23,12 +25,16 @@ function draw() {
 
   translate(width/2, height/2);
 
+  //方块循环
   for(let i = 0; i < 60; i++){
     push();
 
+    //设置noise的变化大小
     let noiseVal = noise(i * inc);
+    //设置基础旋转形状，尤其是这个数值，可以改变整体风格
     let rot = radians(i * 90) + TWO_PI * noiseVal;
     
+    //依据旋转变量的变化设置进行转动
     rotate(rot);
     translate(i * 3, 0);
     
@@ -38,6 +44,7 @@ function draw() {
     pop();
   }
 
+  //判定打印
   if (doExport){
     endRecordSvg();
     doExport = false;
@@ -45,6 +52,7 @@ function draw() {
 
 }
 
+//设置按键后随机变换seed值
 function keyPressed(){
    if(key == "r"){
     seed = floor(random(11111));
