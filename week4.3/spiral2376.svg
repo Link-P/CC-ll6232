@@ -1,0 +1,1419 @@
+<!-- spiral2376.svg -->
+<!-- Generated using p5.js v.2.3.1 and p5.plotSvg v.0.3.0: -->
+<!-- A Plotter-Oriented SVG Exporter for p5.js -->
+<!-- Wed Sep 30 2026 16:23:50 GMT-0400 (北美东部夏令时间) -->
+<!-- DPI: 96 -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="9.375in" height="6.25in" viewBox="0 0 900 600">
+  <style>
+      circle, ellipse, line, path, polygon, polyline, rect, quad, text {
+        fill: none;
+        stroke: black;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        vector-effect: non-scaling-stroke;
+      }
+    </style>
+<g transform="translate(450, 300)">
+  <g>
+    <g transform="rotate(52.951232)">
+      <g transform="translate(0, 0)">
+        <ellipse cx="0" cy="0" rx="8" ry="8"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(143.372130)">
+      <g transform="translate(1, 0)">
+        <ellipse cx="0" cy="0" rx="8.4500" ry="8.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(234.618726)">
+      <g transform="translate(2, 0)">
+        <ellipse cx="0" cy="0" rx="8.9000" ry="8.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(326.643635)">
+      <g transform="translate(3, 0)">
+        <ellipse cx="0" cy="0" rx="9.3500" ry="9.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(419.370871)">
+      <g transform="translate(4, 0)">
+        <ellipse cx="0" cy="0" rx="9.8000" ry="9.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(512.700139)">
+      <g transform="translate(5, 0)">
+        <ellipse cx="0" cy="0" rx="10.2500" ry="10.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(606.512465)">
+      <g transform="translate(6, 0)">
+        <ellipse cx="0" cy="0" rx="10.7000" ry="10.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(700.676827)">
+      <g transform="translate(7, 0)">
+        <ellipse cx="0" cy="0" rx="11.1500" ry="11.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(795.057385)">
+      <g transform="translate(8, 0)">
+        <ellipse cx="0" cy="0" rx="11.6000" ry="11.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(889.520855)">
+      <g transform="translate(9, 0)">
+        <ellipse cx="0" cy="0" rx="12.0500" ry="12.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(983.943597)">
+      <g transform="translate(10, 0)">
+        <ellipse cx="0" cy="0" rx="12.5000" ry="12.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1078.217976)">
+      <g transform="translate(11, 0)">
+        <ellipse cx="0" cy="0" rx="12.9500" ry="12.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1172.257624)">
+      <g transform="translate(12, 0)">
+        <ellipse cx="0" cy="0" rx="13.4000" ry="13.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1266.048262)">
+      <g transform="translate(13, 0)">
+        <ellipse cx="0" cy="0" rx="13.8500" ry="13.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1359.833363)">
+      <g transform="translate(14, 0)">
+        <ellipse cx="0" cy="0" rx="14.3000" ry="14.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1453.630443)">
+      <g transform="translate(15, 0)">
+        <ellipse cx="0" cy="0" rx="14.7500" ry="14.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1547.414687)">
+      <g transform="translate(16, 0)">
+        <ellipse cx="0" cy="0" rx="15.2000" ry="15.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1641.165810)">
+      <g transform="translate(17, 0)">
+        <ellipse cx="0" cy="0" rx="15.6500" ry="15.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1734.867709)">
+      <g transform="translate(18, 0)">
+        <ellipse cx="0" cy="0" rx="16.1000" ry="16.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1828.507889)">
+      <g transform="translate(19, 0)">
+        <ellipse cx="0" cy="0" rx="16.5500" ry="16.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(1922.076749)">
+      <g transform="translate(20, 0)">
+        <ellipse cx="0" cy="0" rx="17" ry="17"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2015.566775)">
+      <g transform="translate(21, 0)">
+        <ellipse cx="0" cy="0" rx="17.4500" ry="17.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2108.971705)">
+      <g transform="translate(22, 0)">
+        <ellipse cx="0" cy="0" rx="17.9000" ry="17.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2202.285751)">
+      <g transform="translate(23, 0)">
+        <ellipse cx="0" cy="0" rx="18.3500" ry="18.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2295.502918)">
+      <g transform="translate(24, 0)">
+        <ellipse cx="0" cy="0" rx="18.8000" ry="18.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2388.616487)">
+      <g transform="translate(25, 0)">
+        <ellipse cx="0" cy="0" rx="19.2500" ry="19.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2481.651869)">
+      <g transform="translate(26, 0)">
+        <ellipse cx="0" cy="0" rx="19.7000" ry="19.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2574.635685)">
+      <g transform="translate(27, 0)">
+        <ellipse cx="0" cy="0" rx="20.1500" ry="20.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2667.564870)">
+      <g transform="translate(28, 0)">
+        <ellipse cx="0" cy="0" rx="20.6000" ry="20.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2760.439575)">
+      <g transform="translate(29, 0)">
+        <ellipse cx="0" cy="0" rx="21.0500" ry="21.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2853.262733)">
+      <g transform="translate(30, 0)">
+        <ellipse cx="0" cy="0" rx="21.5000" ry="21.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(2946.039474)">
+      <g transform="translate(31, 0)">
+        <ellipse cx="0" cy="0" rx="21.9500" ry="21.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3038.776433)">
+      <g transform="translate(32, 0)">
+        <ellipse cx="0" cy="0" rx="22.4000" ry="22.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3131.480993)">
+      <g transform="translate(33, 0)">
+        <ellipse cx="0" cy="0" rx="22.8500" ry="22.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3224.160503)">
+      <g transform="translate(34, 0)">
+        <ellipse cx="0" cy="0" rx="23.3000" ry="23.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3316.821533)">
+      <g transform="translate(35, 0)">
+        <ellipse cx="0" cy="0" rx="23.7500" ry="23.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3409.469199)">
+      <g transform="translate(36, 0)">
+        <ellipse cx="0" cy="0" rx="24.2000" ry="24.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3502.106601)">
+      <g transform="translate(37, 0)">
+        <ellipse cx="0" cy="0" rx="24.6500" ry="24.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3594.754066)">
+      <g transform="translate(38, 0)">
+        <ellipse cx="0" cy="0" rx="25.1000" ry="25.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3687.525658)">
+      <g transform="translate(39, 0)">
+        <ellipse cx="0" cy="0" rx="25.5500" ry="25.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3780.426568)">
+      <g transform="translate(40, 0)">
+        <ellipse cx="0" cy="0" rx="26" ry="26"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3873.430608)">
+      <g transform="translate(41, 0)">
+        <ellipse cx="0" cy="0" rx="26.4500" ry="26.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(3966.501363)">
+      <g transform="translate(42, 0)">
+        <ellipse cx="0" cy="0" rx="26.9000" ry="26.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4059.594341)">
+      <g transform="translate(43, 0)">
+        <ellipse cx="0" cy="0" rx="27.3500" ry="27.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4152.659647)">
+      <g transform="translate(44, 0)">
+        <ellipse cx="0" cy="0" rx="27.8000" ry="27.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4245.644993)">
+      <g transform="translate(45, 0)">
+        <ellipse cx="0" cy="0" rx="28.2500" ry="28.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4338.498879)">
+      <g transform="translate(46, 0)">
+        <ellipse cx="0" cy="0" rx="28.7000" ry="28.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4431.173711)">
+      <g transform="translate(47, 0)">
+        <ellipse cx="0" cy="0" rx="29.1500" ry="29.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4523.628693)">
+      <g transform="translate(48, 0)">
+        <ellipse cx="0" cy="0" rx="29.6000" ry="29.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4615.832275)">
+      <g transform="translate(49, 0)">
+        <ellipse cx="0" cy="0" rx="30.0500" ry="30.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4707.764036)">
+      <g transform="translate(50, 0)">
+        <ellipse cx="0" cy="0" rx="30.5000" ry="30.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4799.278291)">
+      <g transform="translate(51, 0)">
+        <ellipse cx="0" cy="0" rx="30.9500" ry="30.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4890.252037)">
+      <g transform="translate(52, 0)">
+        <ellipse cx="0" cy="0" rx="31.4000" ry="31.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(4980.731476)">
+      <g transform="translate(53, 0)">
+        <ellipse cx="0" cy="0" rx="31.8500" ry="31.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5070.791475)">
+      <g transform="translate(54, 0)">
+        <ellipse cx="0" cy="0" rx="32.3000" ry="32.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5160.530809)">
+      <g transform="translate(55, 0)">
+        <ellipse cx="0" cy="0" rx="32.7500" ry="32.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5250.065914)">
+      <g transform="translate(56, 0)">
+        <ellipse cx="0" cy="0" rx="33.2000" ry="33.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5339.523567)">
+      <g transform="translate(57, 0)">
+        <ellipse cx="0" cy="0" rx="33.6500" ry="33.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5429.032918)">
+      <g transform="translate(58, 0)">
+        <ellipse cx="0" cy="0" rx="34.1000" ry="34.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5518.717402)">
+      <g transform="translate(59, 0)">
+        <ellipse cx="0" cy="0" rx="34.5500" ry="34.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5608.687026)">
+      <g transform="translate(60, 0)">
+        <ellipse cx="0" cy="0" rx="35" ry="35"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5699.031504)">
+      <g transform="translate(61, 0)">
+        <ellipse cx="0" cy="0" rx="35.4500" ry="35.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5789.814690)">
+      <g transform="translate(62, 0)">
+        <ellipse cx="0" cy="0" rx="35.9000" ry="35.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5881.033365)">
+      <g transform="translate(63, 0)">
+        <ellipse cx="0" cy="0" rx="36.3500" ry="36.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(5972.469600)">
+      <g transform="translate(64, 0)">
+        <ellipse cx="0" cy="0" rx="36.8000" ry="36.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6064.074937)">
+      <g transform="translate(65, 0)">
+        <ellipse cx="0" cy="0" rx="37.2500" ry="37.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6155.825600)">
+      <g transform="translate(66, 0)">
+        <ellipse cx="0" cy="0" rx="37.7000" ry="37.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6247.686811)">
+      <g transform="translate(67, 0)">
+        <ellipse cx="0" cy="0" rx="38.1500" ry="38.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6339.615062)">
+      <g transform="translate(68, 0)">
+        <ellipse cx="0" cy="0" rx="38.6000" ry="38.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6431.560942)">
+      <g transform="translate(69, 0)">
+        <ellipse cx="0" cy="0" rx="39.0500" ry="39.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6523.472323)">
+      <g transform="translate(70, 0)">
+        <ellipse cx="0" cy="0" rx="39.5000" ry="39.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6615.297706)">
+      <g transform="translate(71, 0)">
+        <ellipse cx="0" cy="0" rx="39.9500" ry="39.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6706.989528)">
+      <g transform="translate(72, 0)">
+        <ellipse cx="0" cy="0" rx="40.4000" ry="40.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6798.507204)">
+      <g transform="translate(73, 0)">
+        <ellipse cx="0" cy="0" rx="40.8500" ry="40.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6889.819714)">
+      <g transform="translate(74, 0)">
+        <ellipse cx="0" cy="0" rx="41.3000" ry="41.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(6980.907588)">
+      <g transform="translate(75, 0)">
+        <ellipse cx="0" cy="0" rx="41.7500" ry="41.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7071.887079)">
+      <g transform="translate(76, 0)">
+        <ellipse cx="0" cy="0" rx="42.2000" ry="42.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7162.881765)">
+      <g transform="translate(77, 0)">
+        <ellipse cx="0" cy="0" rx="42.6500" ry="42.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7253.893653)">
+      <g transform="translate(78, 0)">
+        <ellipse cx="0" cy="0" rx="43.1000" ry="43.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7344.925870)">
+      <g transform="translate(79, 0)">
+        <ellipse cx="0" cy="0" rx="43.5500" ry="43.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7435.982276)">
+      <g transform="translate(80, 0)">
+        <ellipse cx="0" cy="0" rx="44" ry="44"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7527.066965)">
+      <g transform="translate(81, 0)">
+        <ellipse cx="0" cy="0" rx="44.4500" ry="44.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7618.183678)">
+      <g transform="translate(82, 0)">
+        <ellipse cx="0" cy="0" rx="44.9000" ry="44.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7709.335189)">
+      <g transform="translate(83, 0)">
+        <ellipse cx="0" cy="0" rx="45.3500" ry="45.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7800.522685)">
+      <g transform="translate(84, 0)">
+        <ellipse cx="0" cy="0" rx="45.8000" ry="45.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7891.745212)">
+      <g transform="translate(85, 0)">
+        <ellipse cx="0" cy="0" rx="46.2500" ry="46.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(7982.999202)">
+      <g transform="translate(86, 0)">
+        <ellipse cx="0" cy="0" rx="46.7000" ry="46.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8074.278140)">
+      <g transform="translate(87, 0)">
+        <ellipse cx="0" cy="0" rx="47.1500" ry="47.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8165.548199)">
+      <g transform="translate(88, 0)">
+        <ellipse cx="0" cy="0" rx="47.6000" ry="47.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8256.653734)">
+      <g transform="translate(89, 0)">
+        <ellipse cx="0" cy="0" rx="48.0500" ry="48.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8347.566921)">
+      <g transform="translate(90, 0)">
+        <ellipse cx="0" cy="0" rx="48.5000" ry="48.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8438.292881)">
+      <g transform="translate(91, 0)">
+        <ellipse cx="0" cy="0" rx="48.9500" ry="48.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8528.844576)">
+      <g transform="translate(92, 0)">
+        <ellipse cx="0" cy="0" rx="49.4000" ry="49.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8619.241443)">
+      <g transform="translate(93, 0)">
+        <ellipse cx="0" cy="0" rx="49.8500" ry="49.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8709.507640)">
+      <g transform="translate(94, 0)">
+        <ellipse cx="0" cy="0" rx="50.3000" ry="50.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8799.670050)">
+      <g transform="translate(95, 0)">
+        <ellipse cx="0" cy="0" rx="50.7500" ry="50.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8889.756150)">
+      <g transform="translate(96, 0)">
+        <ellipse cx="0" cy="0" rx="51.2000" ry="51.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(8979.791903)">
+      <g transform="translate(97, 0)">
+        <ellipse cx="0" cy="0" rx="51.6500" ry="51.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9069.799809)">
+      <g transform="translate(98, 0)">
+        <ellipse cx="0" cy="0" rx="52.1000" ry="52.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9159.797232)">
+      <g transform="translate(99, 0)">
+        <ellipse cx="0" cy="0" rx="52.5500" ry="52.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9249.795126)">
+      <g transform="translate(100, 0)">
+        <ellipse cx="0" cy="0" rx="53" ry="53"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9339.607947)">
+      <g transform="translate(101, 0)">
+        <ellipse cx="0" cy="0" rx="53.4500" ry="53.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9429.051478)">
+      <g transform="translate(102, 0)">
+        <ellipse cx="0" cy="0" rx="53.9000" ry="53.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9518.140696)">
+      <g transform="translate(103, 0)">
+        <ellipse cx="0" cy="0" rx="54.3500" ry="54.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9606.899841)">
+      <g transform="translate(104, 0)">
+        <ellipse cx="0" cy="0" rx="54.8000" ry="54.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9695.361369)">
+      <g transform="translate(105, 0)">
+        <ellipse cx="0" cy="0" rx="55.2500" ry="55.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9783.564570)">
+      <g transform="translate(106, 0)">
+        <ellipse cx="0" cy="0" rx="55.7000" ry="55.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9871.553933)">
+      <g transform="translate(107, 0)">
+        <ellipse cx="0" cy="0" rx="56.1500" ry="56.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(9959.377335)">
+      <g transform="translate(108, 0)">
+        <ellipse cx="0" cy="0" rx="56.6000" ry="56.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10047.084162)">
+      <g transform="translate(109, 0)">
+        <ellipse cx="0" cy="0" rx="57.0500" ry="57.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10134.723464)">
+      <g transform="translate(110, 0)">
+        <ellipse cx="0" cy="0" rx="57.5000" ry="57.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10222.342229)">
+      <g transform="translate(111, 0)">
+        <ellipse cx="0" cy="0" rx="57.9500" ry="57.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10309.983877)">
+      <g transform="translate(112, 0)">
+        <ellipse cx="0" cy="0" rx="58.4000" ry="58.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10397.743273)">
+      <g transform="translate(113, 0)">
+        <ellipse cx="0" cy="0" rx="58.8500" ry="58.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10485.985479)">
+      <g transform="translate(114, 0)">
+        <ellipse cx="0" cy="0" rx="59.3000" ry="59.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10574.765566)">
+      <g transform="translate(115, 0)">
+        <ellipse cx="0" cy="0" rx="59.7500" ry="59.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10664.049871)">
+      <g transform="translate(116, 0)">
+        <ellipse cx="0" cy="0" rx="60.2000" ry="60.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10753.775867)">
+      <g transform="translate(117, 0)">
+        <ellipse cx="0" cy="0" rx="60.6500" ry="60.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10843.857544)">
+      <g transform="translate(118, 0)">
+        <ellipse cx="0" cy="0" rx="61.1000" ry="61.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(10934.192202)">
+      <g transform="translate(119, 0)">
+        <ellipse cx="0" cy="0" rx="61.5500" ry="61.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11024.668175)">
+      <g transform="translate(120, 0)">
+        <ellipse cx="0" cy="0" rx="62" ry="62"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11115.173012)">
+      <g transform="translate(121, 0)">
+        <ellipse cx="0" cy="0" rx="62.4500" ry="62.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11205.601561)">
+      <g transform="translate(122, 0)">
+        <ellipse cx="0" cy="0" rx="62.9000" ry="62.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11295.863448)">
+      <g transform="translate(123, 0)">
+        <ellipse cx="0" cy="0" rx="63.3500" ry="63.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11385.889452)">
+      <g transform="translate(124, 0)">
+        <ellipse cx="0" cy="0" rx="63.8000" ry="63.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11475.636386)">
+      <g transform="translate(125, 0)">
+        <ellipse cx="0" cy="0" rx="64.2500" ry="64.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11565.288404)">
+      <g transform="translate(126, 0)">
+        <ellipse cx="0" cy="0" rx="64.7000" ry="64.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11655.043819)">
+      <g transform="translate(127, 0)">
+        <ellipse cx="0" cy="0" rx="65.1500" ry="65.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11744.900894)">
+      <g transform="translate(128, 0)">
+        <ellipse cx="0" cy="0" rx="65.6000" ry="65.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11834.856147)">
+      <g transform="translate(129, 0)">
+        <ellipse cx="0" cy="0" rx="66.0500" ry="66.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(11924.904426)">
+      <g transform="translate(130, 0)">
+        <ellipse cx="0" cy="0" rx="66.5000" ry="66.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12015.039022)">
+      <g transform="translate(131, 0)">
+        <ellipse cx="0" cy="0" rx="66.9500" ry="66.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12105.251803)">
+      <g transform="translate(132, 0)">
+        <ellipse cx="0" cy="0" rx="67.4000" ry="67.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12195.533374)">
+      <g transform="translate(133, 0)">
+        <ellipse cx="0" cy="0" rx="67.8500" ry="67.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12285.873257)">
+      <g transform="translate(134, 0)">
+        <ellipse cx="0" cy="0" rx="68.3000" ry="68.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12376.260087)">
+      <g transform="translate(135, 0)">
+        <ellipse cx="0" cy="0" rx="68.7500" ry="68.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12466.681820)">
+      <g transform="translate(136, 0)">
+        <ellipse cx="0" cy="0" rx="69.2000" ry="69.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12557.125950)">
+      <g transform="translate(137, 0)">
+        <ellipse cx="0" cy="0" rx="69.6500" ry="69.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12647.560851)">
+      <g transform="translate(138, 0)">
+        <ellipse cx="0" cy="0" rx="70.1000" ry="70.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12737.862288)">
+      <g transform="translate(139, 0)">
+        <ellipse cx="0" cy="0" rx="70.5500" ry="70.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12828.008165)">
+      <g transform="translate(140, 0)">
+        <ellipse cx="0" cy="0" rx="71" ry="71"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(12918.004425)">
+      <g transform="translate(141, 0)">
+        <ellipse cx="0" cy="0" rx="71.4500" ry="71.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13007.865236)">
+      <g transform="translate(142, 0)">
+        <ellipse cx="0" cy="0" rx="71.9000" ry="71.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13097.611545)">
+      <g transform="translate(143, 0)">
+        <ellipse cx="0" cy="0" rx="72.3500" ry="72.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13187.269243)">
+      <g transform="translate(144, 0)">
+        <ellipse cx="0" cy="0" rx="72.8000" ry="72.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13276.867058)">
+      <g transform="translate(145, 0)">
+        <ellipse cx="0" cy="0" rx="73.2500" ry="73.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13366.434322)">
+      <g transform="translate(146, 0)">
+        <ellipse cx="0" cy="0" rx="73.7000" ry="73.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13455.998746)">
+      <g transform="translate(147, 0)">
+        <ellipse cx="0" cy="0" rx="74.1500" ry="74.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13545.584374)">
+      <g transform="translate(148, 0)">
+        <ellipse cx="0" cy="0" rx="74.6000" ry="74.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13635.209825)">
+      <g transform="translate(149, 0)">
+        <ellipse cx="0" cy="0" rx="75.0500" ry="75.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13724.886948)">
+      <g transform="translate(150, 0)">
+        <ellipse cx="0" cy="0" rx="75.5000" ry="75.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13814.523477)">
+      <g transform="translate(151, 0)">
+        <ellipse cx="0" cy="0" rx="75.9500" ry="75.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13904.028445)">
+      <g transform="translate(152, 0)">
+        <ellipse cx="0" cy="0" rx="76.4000" ry="76.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(13993.417566)">
+      <g transform="translate(153, 0)">
+        <ellipse cx="0" cy="0" rx="76.8500" ry="76.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14082.715762)">
+      <g transform="translate(154, 0)">
+        <ellipse cx="0" cy="0" rx="77.3000" ry="77.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14171.955636)">
+      <g transform="translate(155, 0)">
+        <ellipse cx="0" cy="0" rx="77.7500" ry="77.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14261.175455)">
+      <g transform="translate(156, 0)">
+        <ellipse cx="0" cy="0" rx="78.2000" ry="78.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14350.416792)">
+      <g transform="translate(157, 0)">
+        <ellipse cx="0" cy="0" rx="78.6500" ry="78.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14439.721955)">
+      <g transform="translate(158, 0)">
+        <ellipse cx="0" cy="0" rx="79.1000" ry="79.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14529.131377)">
+      <g transform="translate(159, 0)">
+        <ellipse cx="0" cy="0" rx="79.5500" ry="79.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14618.681121)">
+      <g transform="translate(160, 0)">
+        <ellipse cx="0" cy="0" rx="80" ry="80"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14708.400661)">
+      <g transform="translate(161, 0)">
+        <ellipse cx="0" cy="0" rx="80.4500" ry="80.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14798.311075)">
+      <g transform="translate(162, 0)">
+        <ellipse cx="0" cy="0" rx="80.9000" ry="80.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14888.412651)">
+      <g transform="translate(163, 0)">
+        <ellipse cx="0" cy="0" rx="81.3500" ry="81.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(14978.640832)">
+      <g transform="translate(164, 0)">
+        <ellipse cx="0" cy="0" rx="81.8000" ry="81.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15068.980654)">
+      <g transform="translate(165, 0)">
+        <ellipse cx="0" cy="0" rx="82.2500" ry="82.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15159.423627)">
+      <g transform="translate(166, 0)">
+        <ellipse cx="0" cy="0" rx="82.7000" ry="82.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15249.957170)">
+      <g transform="translate(167, 0)">
+        <ellipse cx="0" cy="0" rx="83.1500" ry="83.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15340.565394)">
+      <g transform="translate(168, 0)">
+        <ellipse cx="0" cy="0" rx="83.6000" ry="83.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15431.230076)">
+      <g transform="translate(169, 0)">
+        <ellipse cx="0" cy="0" rx="84.0500" ry="84.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15521.931766)">
+      <g transform="translate(170, 0)">
+        <ellipse cx="0" cy="0" rx="84.5000" ry="84.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15612.650956)">
+      <g transform="translate(171, 0)">
+        <ellipse cx="0" cy="0" rx="84.9500" ry="84.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15703.369229)">
+      <g transform="translate(172, 0)">
+        <ellipse cx="0" cy="0" rx="85.4000" ry="85.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15794.070331)">
+      <g transform="translate(173, 0)">
+        <ellipse cx="0" cy="0" rx="85.8500" ry="85.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15884.741076)">
+      <g transform="translate(174, 0)">
+        <ellipse cx="0" cy="0" rx="86.3000" ry="86.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(15975.372048)">
+      <g transform="translate(175, 0)">
+        <ellipse cx="0" cy="0" rx="86.7500" ry="86.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16066.105175)">
+      <g transform="translate(176, 0)">
+        <ellipse cx="0" cy="0" rx="87.2000" ry="87.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16157.075235)">
+      <g transform="translate(177, 0)">
+        <ellipse cx="0" cy="0" rx="87.6500" ry="87.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16248.251822)">
+      <g transform="translate(178, 0)">
+        <ellipse cx="0" cy="0" rx="88.1000" ry="88.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16339.588298)">
+      <g transform="translate(179, 0)">
+        <ellipse cx="0" cy="0" rx="88.5500" ry="88.5500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16431.024679)">
+      <g transform="translate(180, 0)">
+        <ellipse cx="0" cy="0" rx="89" ry="89"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16522.491407)">
+      <g transform="translate(181, 0)">
+        <ellipse cx="0" cy="0" rx="89.4500" ry="89.4500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16613.913787)">
+      <g transform="translate(182, 0)">
+        <ellipse cx="0" cy="0" rx="89.9000" ry="89.9000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16705.216778)">
+      <g transform="translate(183, 0)">
+        <ellipse cx="0" cy="0" rx="90.3500" ry="90.3500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16796.329864)">
+      <g transform="translate(184, 0)">
+        <ellipse cx="0" cy="0" rx="90.8000" ry="90.8000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16887.191663)">
+      <g transform="translate(185, 0)">
+        <ellipse cx="0" cy="0" rx="91.2500" ry="91.2500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(16977.754013)">
+      <g transform="translate(186, 0)">
+        <ellipse cx="0" cy="0" rx="91.7000" ry="91.7000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17067.985243)">
+      <g transform="translate(187, 0)">
+        <ellipse cx="0" cy="0" rx="92.1500" ry="92.1500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17157.880531)">
+      <g transform="translate(188, 0)">
+        <ellipse cx="0" cy="0" rx="92.6000" ry="92.6000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17247.494600)">
+      <g transform="translate(189, 0)">
+        <ellipse cx="0" cy="0" rx="93.0500" ry="93.0500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17336.858190)">
+      <g transform="translate(190, 0)">
+        <ellipse cx="0" cy="0" rx="93.5000" ry="93.5000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17426.008538)">
+      <g transform="translate(191, 0)">
+        <ellipse cx="0" cy="0" rx="93.9500" ry="93.9500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17514.995433)">
+      <g transform="translate(192, 0)">
+        <ellipse cx="0" cy="0" rx="94.4000" ry="94.4000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17603.878389)">
+      <g transform="translate(193, 0)">
+        <ellipse cx="0" cy="0" rx="94.8500" ry="94.8500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17692.723181)">
+      <g transform="translate(194, 0)">
+        <ellipse cx="0" cy="0" rx="95.3000" ry="95.3000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17781.597987)">
+      <g transform="translate(195, 0)">
+        <ellipse cx="0" cy="0" rx="95.7500" ry="95.7500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17870.569338)">
+      <g transform="translate(196, 0)">
+        <ellipse cx="0" cy="0" rx="96.2000" ry="96.2000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(17959.698153)">
+      <g transform="translate(197, 0)">
+        <ellipse cx="0" cy="0" rx="96.6500" ry="96.6500"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(18049.036090)">
+      <g transform="translate(198, 0)">
+        <ellipse cx="0" cy="0" rx="97.1000" ry="97.1000"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(18138.622442)">
+      <g transform="translate(199, 0)">
+        <ellipse cx="0" cy="0" rx="97.5500" ry="97.5500"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
