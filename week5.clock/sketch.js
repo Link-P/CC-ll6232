@@ -25,8 +25,8 @@ function setup() {
 
   //所有数组都用先用0来填充
   for(let i = 0; i < hist; i++){
-    posx[i] = 0;
-    posy[i] = 0;
+    posx[i] = -100;
+    posy[i] = -100;
     hue[i] = 0;
   }
 }
