@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 40px;
+    background: #0f0f13;
+    color: #F0F0F0;
+}
+
+.page{
+    display: flex;
+    gap: 120px;
+}
+
+.works{
+    flex: 2;
+    min-width: 0;
+}
+
+.intro{
+    flex: 1;
+    min-width: 0;
+    font-size: 36px;
+    font-family: Arial;
+    line-height: 1.5;
+
+    position: sticky;
+    top: 40px;
+    align-self: flex-start;
+}
+
+.intro-text{
+    margin-top: 170px;
+    font-size: 20px;
+    line-height: 1.8;
+    color: #BFC1CA;
+}
+
+.work{
+    list-style: none;
+    flex: 1;
+    min-width: 0;
+    max-width: 310px;
+}
+
+.work img{
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    display: block;
+}
+
+.work a{
+    color: #f0f0f0;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.week{
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0 0 50px;
+    list-style: none;
+}
