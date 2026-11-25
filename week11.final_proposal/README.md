@@ -22,4 +22,4 @@ I also want to add more animation, but I have not decided which effects would wo
 
 Previous work:
 
-[Week11 data visualization](https://link-p.github.io/CC-ll6232/week11.data%20visualization/index.html)
+[Week11 data visualization](https://link-p.github.io/CC-ll6232/week11.data_visualization/index.html)
