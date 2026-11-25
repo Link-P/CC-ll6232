@@ -1,0 +1,5 @@
+I chose the Mega Millions data from US Federal Data. I wanted to see how often different numbers appeared in the most recent 100 period. I also wanted to explore whether the numbers in the lastest period had any clear connection to these differences in frequency.
+
+I arranged the winning numbers from 1 to 70 and the Mega Ball numbers from 1 to 24. Then I counted how often each number appeared. The size of each square represents the frequency of its number. Numbers that appeared more often have larger squares. Numbers that appeared less often have smaller squares. I also used brightness to make these differences more visible. This makes it easier for me to find and compare the numbers.
+
+I also selected the numbers from the latest draw and made their squares rotate. This allows me to compare the latest winning numbers with the frequencies from the most recent 100 period and see whether there is any clear connection.
